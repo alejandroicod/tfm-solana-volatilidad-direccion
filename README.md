@@ -1,6 +1,6 @@
 # Pipeline final TFM: Solana, volatilidad y dirección condicionada
 
-Este repositorio contiene la versión limpia del pipeline usado en el TFM.
+Este repositorio contiene el código usado en el TFM.
 El objetivo es estudiar un sistema de dos etapas:
 
 1. **Etapa 1:** clasificar si SOL tendrá alta o baja volatilidad en las próximas 12 horas.
@@ -42,7 +42,6 @@ La carpeta `resultados/graficos/` contiene las gráficas finales.
 
 ## Notas metodológicas
 
-- No se usa shuffle.
 - Las variables rolling usan sólo pasado y presente.
 - El target se calcula con desplazamiento futuro, pero nunca se incluye como feature.
 - La normalización se ajusta sólo con train dentro de cada fold.
