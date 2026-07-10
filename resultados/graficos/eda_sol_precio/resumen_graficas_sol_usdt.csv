@@ -1,0 +1,5 @@
+year,rows,start,end,min_close,max_close,first_close,last_close,png,pdf
+2022,8760,2022-01-01T00:00:00+00:00,2022-12-31T23:00:00+00:00,8.28,179.06,172.38,9.97,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2022.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2022.pdf
+2023,8759,2023-01-01T00:00:00+00:00,2023-12-31T23:00:00+00:00,9.73,123.7,9.99,101.72,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2023.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2023.pdf
+2024,8784,2024-01-01T00:00:00+00:00,2024-12-31T23:00:00+00:00,79.37,262.83,101.96,189.31,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2024.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2024.pdf
+2025,8760,2025-01-01T00:00:00+00:00,2025-12-31T23:00:00+00:00,97.14,286.24,192.54,124.65,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2025.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_precio_cierre_2025.pdf

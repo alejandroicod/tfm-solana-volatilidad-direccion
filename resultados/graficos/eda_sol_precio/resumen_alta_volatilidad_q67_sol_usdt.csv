@@ -1,0 +1,5 @@
+year,rows_labeled,high_vol_rows,high_vol_pct,start,end,png,pdf
+2022,8041,2143,26.651,2022-01-30T23:00:00+00:00,2022-12-31T23:00:00+00:00,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2022.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2022.pdf
+2023,8759,2180,24.889,2023-01-01T00:00:00+00:00,2023-12-31T23:00:00+00:00,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2023.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2023.pdf
+2024,8784,2287,26.036,2024-01-01T00:00:00+00:00,2024-12-31T23:00:00+00:00,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2024.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2024.pdf
+2025,8748,1960,22.405,2025-01-01T00:00:00+00:00,2025-12-31T11:00:00+00:00,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2025.png,tfm_sol_pipeline_final/resultados/graficos/eda_sol_precio/sol_usdt_alta_volatilidad_q67_2025.pdf
